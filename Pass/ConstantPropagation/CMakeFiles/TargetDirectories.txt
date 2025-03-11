@@ -1,0 +1,6 @@
+/workspace/CS201-F24-Template1/Pass/ConstantPropagation/CMakeFiles/intrinsics_gen.dir
+/workspace/CS201-F24-Template1/Pass/ConstantPropagation/CMakeFiles/omp_gen.dir
+/workspace/CS201-F24-Template1/Pass/ConstantPropagation/CMakeFiles/acc_gen.dir
+/workspace/CS201-F24-Template1/Pass/ConstantPropagation/CMakeFiles/ConstantPropagation.dir
+/workspace/CS201-F24-Template1/Pass/ConstantPropagation/CMakeFiles/edit_cache.dir
+/workspace/CS201-F24-Template1/Pass/ConstantPropagation/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+/workspace/CS201-F24-Template1/Pass/SSAConstantPropagation/CMakeFiles/intrinsics_gen.dir
+/workspace/CS201-F24-Template1/Pass/SSAConstantPropagation/CMakeFiles/omp_gen.dir
+/workspace/CS201-F24-Template1/Pass/SSAConstantPropagation/CMakeFiles/acc_gen.dir
+/workspace/CS201-F24-Template1/Pass/SSAConstantPropagation/CMakeFiles/SSAConstantPropagation.dir
+/workspace/CS201-F24-Template1/Pass/SSAConstantPropagation/CMakeFiles/edit_cache.dir
+/workspace/CS201-F24-Template1/Pass/SSAConstantPropagation/CMakeFiles/rebuild_cache.dir
